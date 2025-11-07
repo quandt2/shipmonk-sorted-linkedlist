@@ -23,8 +23,7 @@ composer require quand/shipmonk-sorted-linkedlist
 - Clone and install dependencies:
 
 ```bash
-# replace <repo-url> with your Git repository URL
-git clone <repo-url>
+git clone https://github.com/quandt2/shipmonk-sorted-linkedlist.git
 cd shipmonk-sorted-linkedlist
 composer install
 ```
